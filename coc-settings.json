@@ -1,0 +1,10 @@
+{
+    "snippets.ultisnips.pythonPrompt": false,
+    "languageserver": {
+        "swift": {
+            "command": "sourcekit-lsp",
+            "filetypes": ["swift"],
+            "rootPatterns": ["Package.swift"]
+        }
+    }
+}
