@@ -199,6 +199,7 @@ nnoremap <leader>fg :GFiles<Cr>
 nnoremap <leader>fm :Marks<Cr>
 nnoremap <leader>fr :RG<Cr>
 nnoremap <leader>fb :Buffers<Cr>
+nnoremap <leader>fl :BLines<Cr>
 nnoremap <leader>ft :Tags<Cr>
 nnoremap <leader>fc :Commits<Cr>
 
